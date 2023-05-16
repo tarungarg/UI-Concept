@@ -68,6 +68,7 @@ https://www.carlrippon.com/codemods-for-react-typescript/
 # A guideance on WASM
 https://github.com/mbasso/awesome-wasm
 
-# React blogs with major problems
+# React nice blogs
 https://www.benmvp.com/blog/
-
+https://overreacted.io/
+https://syntax.fm/
