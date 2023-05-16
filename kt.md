@@ -56,3 +56,11 @@ https://www.browserstack.com/guide/angular-vs-react-vs-vue#:~:text=A%20simple%20
 # Edge Cdn The future where server keeps on CDN and secure. We dont need extra aws kind of servers.
 
 https://edge.network/en/content-delivery/documentation/#managing-your-deployment
+
+https://www.netlify.com/with/nextjs/
+
+# we have many "code-mods" which helps to transform the code to correct syntax, fix the issues
+
+fix code: https://github.com/facebook/jscodeshift
+syntax tree: https://astexplorer.net/  
+
