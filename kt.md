@@ -63,4 +63,5 @@ https://www.netlify.com/with/nextjs/
 
 fix code: https://github.com/facebook/jscodeshift
 syntax tree: https://astexplorer.net/  
+https://www.carlrippon.com/codemods-for-react-typescript/
 
