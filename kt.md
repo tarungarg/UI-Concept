@@ -72,3 +72,6 @@ https://github.com/mbasso/awesome-wasm
 https://www.benmvp.com/blog/
 https://overreacted.io/
 https://syntax.fm/
+
+# More type (Typescript) safe using
+https://github.com/total-typescript/ts-reset
