@@ -65,3 +65,6 @@ fix code: https://github.com/facebook/jscodeshift
 syntax tree: https://astexplorer.net/  
 https://www.carlrippon.com/codemods-for-react-typescript/
 
+# A guideance on WASM
+https://github.com/mbasso/awesome-wasm
+
