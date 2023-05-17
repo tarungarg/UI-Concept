@@ -51,6 +51,7 @@ https://replay.js.org/tutorial/5
 # Comparison of react, vue and angular
 
 https://krausest.github.io/js-framework-benchmark/current.html
+
 https://www.browserstack.com/guide/angular-vs-react-vs-vue#:~:text=A%20simple%20difference%20between%20these,Vue%20with%2018.97%25%20of%20developers.
 
 # Edge Cdn The future where server keeps on CDN and secure. We dont need extra aws kind of servers.
@@ -62,7 +63,9 @@ https://www.netlify.com/with/nextjs/
 # we have many "code-mods" which helps to transform the code to correct syntax, fix the issues
 
 fix code: https://github.com/facebook/jscodeshift
+
 syntax tree: https://astexplorer.net/  
+
 https://www.carlrippon.com/codemods-for-react-typescript/
 
 # A guideance on WASM
@@ -70,7 +73,9 @@ https://github.com/mbasso/awesome-wasm
 
 # React nice blogs
 https://www.benmvp.com/blog/
+
 https://overreacted.io/
+
 https://syntax.fm/
 
 # More type (Typescript) safe using
@@ -78,5 +83,7 @@ https://github.com/total-typescript/ts-reset
 
 # Code splitting React Js
 https://www.npmjs.com/package/react-loadable
+
 Vendor split webpack
+
 Lazy method support from React
