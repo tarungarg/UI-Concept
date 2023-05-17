@@ -8,8 +8,11 @@ POC: https://developit.github.io/preact-perf/
 https://analogjs.org/
 
 Vue has NuxtJs
+
 React has NextJs
+
 Angular has Analog
+
 Solid has SolidStart
 
 # Nx is faster than Turborepo in case of monorepo builds
