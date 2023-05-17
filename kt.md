@@ -95,3 +95,5 @@ Lazy method support from React
 https://github.com/unifiedjs/unified
 
 https://react-docgen.dev/docs/getting-started/nodejs
+
+# If you're doing SSR you'll want to consider using Loadable (https://github.com/gregberge/loadable-components) instead of React.lazy, as suggested by the official React.lazy
