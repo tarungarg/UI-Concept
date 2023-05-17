@@ -75,3 +75,8 @@ https://syntax.fm/
 
 # More type (Typescript) safe using
 https://github.com/total-typescript/ts-reset
+
+# Code splitting React Js
+https://www.npmjs.com/package/react-loadable
+Vendor split webpack
+Lazy method support from React
