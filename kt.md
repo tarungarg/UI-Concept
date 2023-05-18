@@ -85,11 +85,16 @@ https://syntax.fm/
 https://github.com/total-typescript/ts-reset
 
 # Code splitting React Js
-https://www.npmjs.com/package/react-loadable
 
 Vendor split webpack
 
-Lazy method support from React
+Lazy and dynamic imports for React
+
+Lodable library for server side: https://www.npmjs.com/package/react-loadable
+
+Route based splitting
+
+Prefect, preload based splitting
 
 # A plugins which helps on mdx and also many other tools supported
 https://github.com/unifiedjs/unified
