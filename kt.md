@@ -107,6 +107,6 @@ If you're doing SSR you'll want to consider using Loadable (https://github.com/g
 # Webpack prefetch, preload explained
 https://github.com/evanw/esbuild/issues/1240#issue-874351016
 
-# Another testing frmework based on Vite, which is fast
+# Nextgen testing framework
 1. Unit testing: https://vitest.dev/guide/mocking.html
 2. E2E testing: https://playwright.dev/
