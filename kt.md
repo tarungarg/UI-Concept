@@ -102,4 +102,5 @@ https://react-docgen.dev/docs/getting-started/nodejs
 https://github.com/evanw/esbuild/issues/1240#issue-874351016
 
 # Another testing frmework based on Vite, which is fast
-https://vitest.dev/guide/mocking.html
+1. Unit testing: https://vitest.dev/guide/mocking.html
+2. E2E testing: https://playwright.dev/
