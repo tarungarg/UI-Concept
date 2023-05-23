@@ -110,3 +110,6 @@ https://github.com/evanw/esbuild/issues/1240#issue-874351016
 # Nextgen testing framework
 1. Unit testing: https://vitest.dev/guide/mocking.html
 2. E2E testing: https://playwright.dev/
+
+# NextJs examples
+https://reactjsexample.com/an-e-commerce-project-developed-by-nextjs-and-typescript/
