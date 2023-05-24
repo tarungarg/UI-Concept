@@ -113,3 +113,6 @@ https://github.com/evanw/esbuild/issues/1240#issue-874351016
 
 # NextJs examples
 https://reactjsexample.com/an-e-commerce-project-developed-by-nextjs-and-typescript/
+
+# Alternate to redux in react (state management tool)
+1. React-query : https://tanstack.com/query/latest/docs/react/overview
