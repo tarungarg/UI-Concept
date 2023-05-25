@@ -116,3 +116,7 @@ https://reactjsexample.com/an-e-commerce-project-developed-by-nextjs-and-typescr
 
 # Alternate to redux in react (state management tool)
 1. React-query : https://tanstack.com/query/latest/docs/react/overview
+
+# Webworker for parallel proccessing and multithreading concept
+use https://github.com/GoogleChromeLabs/comlink
+https://www.youtube.com/watch?v=7Rrv9qFMWNM
