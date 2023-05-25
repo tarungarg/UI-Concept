@@ -126,3 +126,12 @@ https://www.youtube.com/watch?v=7Rrv9qFMWNM
 
 # WebGpu is faster than webGL
 https://www.youtube.com/watch?v=nUYe3a1mp6c
+
+# Redux-toolkit and Zustand
+Both are redux tools but zustand has less boilerplate code
+
+Redux-toolkit and Zustand perform same in case of array and objects (non premitive types). 
+
+It re-renders in case of object and array comparisons
+
+We need to use shallowEqual in both cases for non-primitive types
