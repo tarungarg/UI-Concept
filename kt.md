@@ -128,10 +128,21 @@ https://www.youtube.com/watch?v=7Rrv9qFMWNM
 https://www.youtube.com/watch?v=nUYe3a1mp6c
 
 # Redux-toolkit and Zustand
-Both are redux tools but zustand has less boilerplate code
+1. Both are redux tools but zustand has less boilerplate code
+2. Redux-toolkit and Zustand perform same in case of array and objects (non premitive types). 
+3. It re-renders in case of object and array comparisons
+4. We need to use shallowEqual in both cases for non-primitive types
 
-Redux-toolkit and Zustand perform same in case of array and objects (non premitive types). 
-
-It re-renders in case of object and array comparisons
-
-We need to use shallowEqual in both cases for non-primitive types
+# What a build tool has
+1. Code splitting
+2. Vendors split and further split in vendors
+3. Lazy load
+4. Prefetch and preload mechanism
+5. Webworker support
+6. Lang support
+7. source map generator
+8. Vendor cash
+9. Incremental builds support- (Nx.dev supports it)
+10. Multiple entry points/ outputs support
+11. Plugins support, Good doc, Active community, Fast compilation
+13. Split dynamic imports
