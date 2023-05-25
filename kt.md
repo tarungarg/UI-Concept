@@ -123,3 +123,6 @@ https://reactjsexample.com/an-e-commerce-project-developed-by-nextjs-and-typescr
 # Webworker for parallel proccessing and multithreading concept
 use https://github.com/GoogleChromeLabs/comlink
 https://www.youtube.com/watch?v=7Rrv9qFMWNM
+
+# WebGpu is faster than webGL
+https://www.youtube.com/watch?v=nUYe3a1mp6c
