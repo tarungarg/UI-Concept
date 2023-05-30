@@ -151,3 +151,6 @@ https://www.youtube.com/watch?v=nUYe3a1mp6c
 https://github.com/hatoo/oha
 
 used in: https://www.youtube.com/watch?v=3Q2q2gs0nAI
+
+# Core web vital reporting
+https://lookerstudio.google.com/u/0/reporting/55bc8fad-44c2-4280-aa0b-5f3f0cd3d2be/page/M6ZPC
