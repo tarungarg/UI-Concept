@@ -146,3 +146,8 @@ https://www.youtube.com/watch?v=nUYe3a1mp6c
 10. Multiple entry points/ outputs support
 11. Plugins support, Good doc, Active community, Fast compilation
 13. Split dynamic imports
+
+# Load, Performance testing UI
+https://github.com/hatoo/oha
+
+used in: https://www.youtube.com/watch?v=3Q2q2gs0nAI
