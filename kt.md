@@ -164,3 +164,6 @@ https://web.dev/inp/
 
 https://web.dev/top-cwv-2023/
 
+# Web book
+https://almanac.httparchive.org
+
