@@ -162,3 +162,5 @@ Lighthouse information: https://www.npmjs.com/package/lighthouse
 # Interaction to next paint
 https://web.dev/inp/
 
+https://web.dev/top-cwv-2023/
+
