@@ -157,6 +157,8 @@ https://lookerstudio.google.com/u/0/reporting/55bc8fad-44c2-4280-aa0b-5f3f0cd3d2
 
 Google tool to verify web vitals: https://github.com/GoogleChrome/lighthouse-ci
 
+Lighthouse information: https://www.npmjs.com/package/lighthouse
+
 # Interaction to next paint
 https://web.dev/inp/
 
