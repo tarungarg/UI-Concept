@@ -167,3 +167,7 @@ https://web.dev/top-cwv-2023/
 # Web book
 https://almanac.httparchive.org
 
+# Library to ease animations
+https://greensock.com/gsap/
+
+
