@@ -173,4 +173,8 @@ https://greensock.com/gsap/
 # A tool to create nextJs with latest stack
 https://create.t3.gg/en/usage/next-js
 
+# dummy API endpoints
+https://rapidapi.com/apininjas/api/cars-by-api-ninjas
+
+https://jsonplaceholder.typicode.com/guide/
 
