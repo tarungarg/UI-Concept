@@ -170,4 +170,7 @@ https://almanac.httparchive.org
 # Library to ease animations
 https://greensock.com/gsap/
 
+# A tool to create nextJs with latest stack
+https://create.t3.gg/en/usage/next-js
+
 
