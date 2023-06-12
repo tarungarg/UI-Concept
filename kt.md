@@ -178,3 +178,10 @@ https://rapidapi.com/apininjas/api/cars-by-api-ninjas
 
 https://jsonplaceholder.typicode.com/guide/
 
+# Accessibility plugin and verification
+https://larsmagnus.co/blog/how-to-test-for-accessibility-with-axe-core-in-next-js-and-react
+
+https://web.dev/accessibility-auditing-react/
+
+https://github.com/dequelabs/axe-core-npm/tree/develop/packages/react
+
