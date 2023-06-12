@@ -185,3 +185,6 @@ https://web.dev/accessibility-auditing-react/
 
 https://github.com/dequelabs/axe-core-npm/tree/develop/packages/react
 
+# Debuggin tool for FE dev
+https://jam.dev/  => Details https://www.youtube.com/watch?v=JKbDbF5z8qU
+
