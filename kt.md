@@ -188,3 +188,11 @@ https://github.com/dequelabs/axe-core-npm/tree/develop/packages/react
 # Debuggin tool for FE dev
 https://jam.dev/  => Details https://www.youtube.com/watch?v=JKbDbF5z8qU
 
+# Deps check and remove (Unused deps removal)
+1. npx depcheck - only small package details
+2. npx npm-check - full details
+
+
+# Deps check and remove (Unused deps verify)
+1. npx depcheck
+2. npx npm-check
