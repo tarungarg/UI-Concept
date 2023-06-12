@@ -196,3 +196,6 @@ https://jam.dev/  => Details https://www.youtube.com/watch?v=JKbDbF5z8qU
 # Deps check and remove (Unused deps verify)
 1. npx depcheck
 2. npx npm-check
+3. npm doctor
+4. npm outdated
+5. npm update
