@@ -199,3 +199,6 @@ https://jam.dev/  => Details https://www.youtube.com/watch?v=JKbDbF5z8qU
 3. npm doctor
 4. npm outdated
 5. npm update
+
+# Animation website with figma
+[lottefiles](https://lottiefiles.com/)
