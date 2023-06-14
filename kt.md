@@ -3,6 +3,9 @@
 We have mithil.js even faster than every framwork
 POC: https://developit.github.io/preact-perf/
 
+We have more js which is very fast
+https://million.dev/
+
 # Angular has analog framework like nextjs for SSR, SSG approaches
 
 https://analogjs.org/
