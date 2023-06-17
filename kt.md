@@ -88,6 +88,8 @@ https://surma.dev/things/react-redux-comlink/
 
 https://engineers.sg/
 
+https://www.patterns.dev/
+
 # More type (Typescript) safe using
 https://github.com/total-typescript/ts-reset
 
